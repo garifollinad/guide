@@ -1,0 +1,80 @@
+{
+  "guide" : [ {
+    "id" : 1,
+    "name" : "Top 10 Renaissance artworks",
+    "shortDescription" : "POPULAR",
+    "fullDescription" : "The period of 14-17 century is marked a rebirth of classical learning and wisdom",
+    "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1200px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg", 
+    "pictures" : [
+      {
+        "id" : 1, 
+        "name" : "Birth of Venus", 
+        "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1200px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+        "artist" : "Sandro Botticelli (Firenze 1445 – 1510)"
+      }, 
+      {
+        "id" : 2, 
+        "name" : "Woman with a Veil", 
+        "url" : "https://www.wga.hu/art/r/raphael/5roma/3/03velata.jpg",
+        "artist" : "Raphael (Urbino 1483 – Rome 1520)"
+      }, 
+      {
+        "id" : 3, 
+        "name" : "Holy Family, known as the 'Doni Tondo'", 
+        "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tondo_Doni%2C_por_Miguel_%C3%81ngel.jpg/800px-Tondo_Doni%2C_por_Miguel_%C3%81ngel.jpg",
+        "artist" : "Michelangelo Buonarroti (Caprese 1475 – Roma 1564)"
+      }, 
+      {
+        "id" : 4, 
+        "name" : "Medici Venus", 
+        "url" : "https://upload.wikimedia.org/wikipedia/commons/8/82/Cleomene_di_Apollodoro%2C_venere_medici%2C_I_secolo_ac_ca.jpg",
+        "artist" : "Hellenistic art"
+      }, 
+      {
+        "id" : 5, 
+        "name" : "Annunciation with St. Margaret and St. Ansanus", 
+        "url" : "https://upload.wikimedia.org/wikipedia/commons/8/8e/Simone_Martini_truecolor.jpg",
+        "artist" : "Simone Martini (Siena 1284 ca. – Avignone 1344) and Lippo Memmi (Siena attested between 1317 and 1347)"
+      }
+    ]
+  }, {
+    "id" : 2,
+    "name" : "Top 10 Baroque artpieces",
+    "shortDescription" : "HIGHLIGHTS",
+    "fullDescription" : "The style began at start of 17th century in Rome, then spread rapidly in Europe",
+    "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lazio_Roma_SIgnazio_tango7174.jpg", 
+    "pictures" : [
+      {
+        "id" : 1, 
+        "name" : "Birth of Venus", 
+        "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1200px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+        "artist" : "Sandro Botticelli (Firenze 1445 – 1510)"
+      }, 
+      {
+        "id" : 2, 
+        "name" : "Woman with a Veil", 
+        "url" : "https://www.wga.hu/art/r/raphael/5roma/3/03velata.jpg",
+        "artist" : "Raphael (Urbino 1483 – Rome 1520)"
+      }, 
+      {
+        "id" : 3, 
+        "name" : "Holy Family, known as the 'Doni Tondo'", 
+        "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tondo_Doni%2C_por_Miguel_%C3%81ngel.jpg/800px-Tondo_Doni%2C_por_Miguel_%C3%81ngel.jpg",
+        "artist" : "Michelangelo Buonarroti (Caprese 1475 – Roma 1564)"
+      }, 
+      {
+        "id" : 4, 
+        "name" : "Medici Venus", 
+        "url" : "https://upload.wikimedia.org/wikipedia/commons/8/82/Cleomene_di_Apollodoro%2C_venere_medici%2C_I_secolo_ac_ca.jpg",
+        "artist" : "Hellenistic art"
+      }, 
+      {
+        "id" : 5, 
+        "name" : "Annunciation with St. Margaret and St. Ansanus", 
+        "url" : "https://upload.wikimedia.org/wikipedia/commons/8/8e/Simone_Martini_truecolor.jpg",
+        "artist" : "Simone Martini (Siena 1284 ca. – Avignone 1344) and Lippo Memmi (Siena attested between 1317 and 1347)"
+      }
+    ]
+  }
+  ]
+}
