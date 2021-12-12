@@ -114,44 +114,6 @@
         "artist" : "Simone Martini (Siena 1284 ca. – Avignone 1344) and Lippo Memmi (Siena attested between 1317 and 1347)"
       }
     ]
-  }, {
-    "id" : 4,
-    "name" : "Top 10 sculturas",
-    "shortDescription" : "HIGHLIGHTS",
-    "fullDescription" : "The rich sculpture collection of the Uffizi: from antiquity to the present day",
-    "pictureUrl" : "https://images.uffizi.it/production/attachments/1637572167469452/PREV3.jpg?ixlib=rails-2.1.3&w=780&h=926&fit=crop&crop=center&fm=gjpg&auto=compress", 
-    "pictures" : [
-      {
-        "id" : 1, 
-        "name" : "Birth of Venus", 
-        "url" : "https://images.uffizi.it/production/attachments/1503909019474156-PREVIEW.jpg?ixlib=rails-2.1.3&w=780&h=926&fit=crop&crop=center&fm=gjpg&auto=compress",
-        "artist" : "Sandro Botticelli (Firenze 1445 – 1510)"
-      }, 
-      {
-        "id" : 2, 
-        "name" : "Woman with a Veil", 
-        "url" : "https://images.uffizi.it/production/attachments/1587365792219203-PRE-m.jpg?ixlib=rails-2.1.3&w=780&h=926&fit=crop&crop=center&fm=gjpg&auto=compress",
-        "artist" : "Raphael (Urbino 1483 – Rome 1520)"
-      }, 
-      {
-        "id" : 3, 
-        "name" : "Holy Family, known as the 'Doni Tondo'", 
-        "url" : "https://images.uffizi.it/production/attachments/1632305738744896/PRE-evento.jpg?ixlib=rails-2.1.3&w=780&h=926&fit=crop&crop=center&fm=gjpg&auto=compress",
-        "artist" : "Michelangelo Buonarroti (Caprese 1475 – Roma 1564)"
-      }, 
-      {
-        "id" : 4, 
-        "name" : "Medici Venus", 
-        "url" : "https://images.uffizi.it/production/attachments/1619688108792691/PREVIEW.jpg?ixlib=rails-2.1.3&w=780&h=926&fit=crop&crop=center&fm=gjpg&auto=compress",
-        "artist" : "Hellenistic art"
-      }, 
-      {
-        "id" : 5, 
-        "name" : "Annunciation with St. Margaret and St. Ansanus", 
-        "url" : "https://images.uffizi.it/production/attachments/1588932458035677-PRE.jpg?ixlib=rails-2.1.3&w=780&h=926&fit=crop&crop=center&fm=gjpg&auto=compress",
-        "artist" : "Simone Martini (Siena 1284 ca. – Avignone 1344) and Lippo Memmi (Siena attested between 1317 and 1347)"
-      }
-    ]
   }
   ]
 }
